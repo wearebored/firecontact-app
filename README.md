@@ -38,7 +38,7 @@ Router, redux and firebase contact application created using.
 
 ## Pages
 
-[ Project Website ](https://cosmic-pasca-b88d6c.netlify.app/login)
+[ Project Website ](https://cosmic-pasca-b88d6c.netlify.app)
 
 ## Preview
 
